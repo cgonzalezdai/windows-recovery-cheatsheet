@@ -33,5 +33,3 @@ Copiar esta lista a un registro local de la incidencia y marcar únicamente lo r
 - [ ] Configuración de inicio limpio revertida si procede.
 - [ ] Funciones habituales del equipo probadas de extremo a extremo.
 - [ ] Estado de la incidencia separado de la causa raíz: resuelta, no resuelta; causa confirmada, probable o desconocida.
-
-No publicar nombres de host, usuarios, IP, credenciales, claves ni logs completos. Registrar la intervención real, no asumir que una sugerencia se ejecutó.

@@ -4,7 +4,7 @@
 
 ## Acceso y protección
 
-WinRE suele ofrecerse tras fallos repetidos de arranque. Si Windows funciona, usar Inicio avanzado en Configuración > Sistema > Recuperación o Mayús + Reiniciar. Desde un medio oficial de instalación, elegir reparar el equipo, no instalar. Verificar copia de datos y disponibilidad de clave BitLocker antes de modificar nada. No copiar claves al expediente público.
+WinRE suele ofrecerse tras fallos repetidos de arranque. Si Windows funciona, usar Inicio avanzado en Configuración > Sistema > Recuperación o Mayús + Reiniciar. Desde un medio oficial de instalación, elegir reparar el equipo, no instalar. Verificar copia de datos y disponibilidad de clave BitLocker antes de modificar nada.
 
 ## Localizar Windows
 

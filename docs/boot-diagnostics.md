@@ -36,6 +36,6 @@ Ejecutar PnPUtil y BCDEdit desde CMD elevado. La consulta BCD por defecto se ref
 | SrtTrail.txt | Pruebas de reparación de inicio; éxito parcial no equivale a arranque correcto |
 | CBS/DISM | Fallos de mantenimiento y archivos requeridos |
 
-Si existe un volcado STOP, abrirlo localmente con WinDbg, configurar símbolos si procede y usar `!analyze -v` como punto de partida. Los volcados pueden contener secretos; no subirlos a repositorios públicos.
+Si existe un volcado STOP, abrirlo localmente con WinDbg, configurar símbolos si procede y usar `!analyze -v` como punto de partida. Los volcados de memoria pueden contener credenciales y otros datos sensibles. Si necesitas compartirlos con un servicio de soporte, utiliza un canal seguro y limita el acceso a las personas autorizadas.
 
 Fuentes: [Diagnóstico avanzado de arranque](https://learn.microsoft.com/es-es/troubleshoot/windows-client/performance/windows-boot-issues-troubleshooting), [PnPUtil](https://learn.microsoft.com/es-es/windows-hardware/drivers/devtest/pnputil-command-syntax).

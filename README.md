@@ -34,10 +34,10 @@ Guía de consulta para diagnosticar problemas de inicio de Windows 11, especialm
 - **R — Reparación:** cambia archivos, configuración o estado del sistema.
 - **A — Alto impacto:** puede retirar aplicaciones, deshacer cambios o afectar a datos; requiere copia verificada y decisión consciente.
 
-Los ejemplos usan C: como instalación de Windows. En WinRE la letra puede ser distinta. Identifica el volumen antes de operar. Si BitLocker protege el equipo, ten disponible su clave de recuperación. En equipos administrados, sigue el procedimiento de TI. No publiques claves, registros sin anonimizar ni volcados de memoria.
+Los ejemplos usan C: como instalación de Windows. En WinRE la letra puede ser distinta. Identifica el volumen antes de operar. Si BitLocker protege el equipo, ten disponible su clave de recuperación. En equipos administrados, sigue el procedimiento de TI.
 
 ## Contexto
 
-Material complementario del Lab «Windows 11 no arranca: guía práctica de diagnóstico y recuperación» de [claudiogonzalez.es](https://claudiogonzalez.es/). La guía combina una experiencia real con procedimientos generales; no todos los comandos se ejecutaron en el mismo equipo. No sustituye el diagnóstico específico ni garantiza una reparación.
+Material complementario del Lab «Windows 11 no arranca: guía práctica de diagnóstico y recuperación» de [claudiogonzalez.es](https://claudiogonzalez.es/). No sustituye el diagnóstico específico ni garantiza una reparación.
 
 Autor: [Claudio González](https://github.com/cgonzalezdai).

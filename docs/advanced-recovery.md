@@ -22,7 +22,7 @@ No ejecutar listas genéricas de bootrec/bcdboot, modificar particiones ni desac
 - Restablecer este equipo > Conservar mis archivos: reinstala Windows, retira aplicaciones y restablece configuración. Requiere copia comprobada y claves necesarias. Reinstalación local o descarga en la nube.
 - Instalación limpia o Quitar todo: solo cuando se haya decidido explícitamente el alcance y protegido los datos. La opción de recompilación en la nube, si aparece, no es lo mismo que descarga en la nube conservando archivos.
 
-En el caso del Lab, la reparación del almacén no se completó y se eligió el restablecimiento conservando archivos con descarga en la nube. Esto no prueba que una reparación alternativa fuese imposible ni identifica la actualización causante.
+Restablecer el sistema puede recuperar su funcionamiento sin identificar la causa del fallo. Si es importante evitar que la incidencia se reproduzca en otros equipos, conviene preservar las evidencias y continuar el diagnóstico antes de reinstalar.
 
 Continuar con [verificación](recovery-checklist.md).
 

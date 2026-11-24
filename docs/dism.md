@@ -47,7 +47,7 @@ También es posible utilizar la carpeta Windows de una imagen correctamente mont
 DISM /Image:C:\ /Cleanup-Image /RestoreHealth /Source:E:\mount\Windows
 ```
 
-/LimitAccess evita recurrir a Windows Update para reparar una imagen online. No convertir un ESD en WIM cambiando la extensión. Consultar la documentación oficial si el medio contiene otro formato. No se afirma que este procedimiento se probara en el caso del Lab.
+/LimitAccess evita recurrir a Windows Update para reparar una imagen online. No convertir un ESD en WIM cambiando la extensión. Consultar la documentación oficial si el medio contiene otro formato.
 
 ## Interpretar resultados
 

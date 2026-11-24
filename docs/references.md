@@ -2,7 +2,7 @@
 
 [Inicio](../README.md) · [Chuleta](../CHEATSHEET.md)
 
-Documentación de Microsoft para ampliar y confirmar parámetros, opciones disponibles y restricciones por versión. Los procedimientos de este repositorio se redactan en español y son independientes de los textos oficiales.
+Documentación de Microsoft para ampliar y confirmar parámetros, opciones disponibles y restricciones por versión.
 
 | Tema | Fuente |
 |---|---|
