@@ -38,6 +38,6 @@ Los ejemplos usan C: como instalación de Windows. En WinRE la letra puede ser d
 
 ## Contexto
 
-Material complementario del Lab «Windows 11 no arranca: guía práctica de diagnóstico y recuperación» de [claudiogonzalez.es](https://claudiogonzalez.es/). No sustituye el diagnóstico específico ni garantiza una reparación.
+Material complementario del Lab [Windows 11 no arranca: guía práctica de diagnóstico y recuperación](https://claudiogonzalez.es/lab/windows-11-diagnostico-y-recuperacion/) de [claudiogonzalez.es](https://claudiogonzalez.es/). No sustituye el diagnóstico específico ni garantiza una reparación.
 
 Autor: [Claudio González](https://github.com/cgonzalezdai).
